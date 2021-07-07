@@ -31,11 +31,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj",
+      "projectUniqueName": "C:\\Users\\rendeyv.GROUP\\Source\\Repos\\Smurfit\\SKDVS\\SKDVS\\SKDVS.csproj",
       "projectName": "SKDVS",
-      "projectPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj",
+      "projectPath": "C:\\Users\\rendeyv.GROUP\\Source\\Repos\\Smurfit\\SKDVS\\SKDVS\\SKDVS.csproj",
       "packagesPath": "C:\\Users\\rendeyv.GROUP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\obj\\",
+      "outputPath": "C:\\Users\\rendeyv.GROUP\\Source\\Repos\\Smurfit\\SKDVS\\SKDVS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rendeyv.GROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj": {
-              "projectPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj"
+            "C:\\Users\\rendeyv.GROUP\\Source\\Repos\\Smurfit\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj": {
+              "projectPath": "C:\\Users\\rendeyv.GROUP\\Source\\Repos\\Smurfit\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj"
             }
           }
         }
