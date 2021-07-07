@@ -23,7 +23,7 @@ namespace SKDVS
             frmUpdte.Close();
             string strLogonType = Globals.GetLogontype();
 
-
+            //test
             Application.Run(new Form1());
         }
     }
