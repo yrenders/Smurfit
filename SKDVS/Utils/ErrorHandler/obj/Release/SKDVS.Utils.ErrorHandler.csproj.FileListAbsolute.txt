@@ -1,0 +1,14 @@
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\ErrorHandler.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\ClassLibrary1.xml
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.ExceptionDialog.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.csproj.GenerateResource.Cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\ErrorHandler.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\fr-BE\ErrorHandler.resources.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\nl-BE\ErrorHandler.resources.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.Languages.resources.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.Languages.resources.fr-BE.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.Languages.resources.nl-BE.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\fr-BE\ErrorHandler.resources.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\nl-BE\ErrorHandler.resources.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.csproj.AssemblyReference.cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\SKDVS_ExceptionHandling\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Release\SKDVS.Utils.ErrorHandler.csproj.CoreCompileInputs.cache

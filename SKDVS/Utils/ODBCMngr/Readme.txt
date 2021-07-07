@@ -1,0 +1,1 @@
+﻿Copy $(TargetPath)  C:\windows\system32\

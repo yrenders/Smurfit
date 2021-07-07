@@ -1,0 +1,5 @@
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\obj\Debug\ODBCMngr.csprojResolveAssemblyReference.cache
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\bin\Debug\ODBCMngr.dll
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\bin\Debug\ODBCMngr.pdb
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\obj\Debug\ODBCMngr.dll
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\obj\Debug\ODBCMngr.pdb

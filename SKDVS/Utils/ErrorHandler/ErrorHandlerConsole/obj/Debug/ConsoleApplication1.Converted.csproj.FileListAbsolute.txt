@@ -1,0 +1,1 @@
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ConsoleApplication1.ConvertedToC#\obj\Debug\ConsoleApplication1.Converted.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\bin\Release\ODBCMngr.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\obj\Release\ODBCMngr.csprojResolveAssemblyReference.cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\obj\Release\ODBCMngr.dll

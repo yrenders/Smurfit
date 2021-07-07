@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ErrorHandler</name>
+    </assembly>
+    <members>
+        <member name="T:SKDVS.Utils.ErrorHandler.Languages.resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.Error">
+            <summary>
+              Looks up a localized string similar to Error.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.How_this_will_affect_you">
+            <summary>
+              Looks up a localized string similar to How this will affect you.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.test">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.Title">
+            <summary>
+              Looks up a localized string similar to (app) has encoutered a problem.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.What_happened">
+            <summary>
+              Looks up a localized string similar to What happened.
+            </summary>
+        </member>
+        <member name="P:SKDVS.Utils.ErrorHandler.Languages.resources.What_you_can_do_about_it">
+            <summary>
+              Looks up a localized string similar to What you can do about it.
+            </summary>
+        </member>
+    </members>
+</doc>

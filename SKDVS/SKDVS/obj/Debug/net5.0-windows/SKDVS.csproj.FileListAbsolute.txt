@@ -1,0 +1,12 @@
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.csproj.AssemblyReference.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\Interop.KD_AdminX.dll
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.csproj.ResolveComReference.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.Form1.resources
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.frmDllUpdate.resources
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.frmLogin.resources
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.Properties.Resources.resources
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.csproj.GenerateResource.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.AssemblyInfoInputs.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.AssemblyInfo.cs
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\SKDVS\obj\Debug\net5.0-windows\SKDVS.csproj.CoreCompileInputs.cache

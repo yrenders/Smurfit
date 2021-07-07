@@ -1,0 +1,14 @@
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\bin\Debug\OdbcDemo.exe.config
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\bin\Debug\OdbcDemo.exe
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\bin\Debug\OdbcDemo.pdb
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\bin\Debug\ODBCMngr.dll
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\bin\Debug\ODBCMngr.pdb
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.csprojResolveAssemblyReference.cache
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.Form1.resources
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.Properties.Resources.resources
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.csproj.GenerateResource.Cache
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.exe
+C:\Users\rendeyv.GROUP\Downloads\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.pdb
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\bin\Debug\OdbcDemo.exe.config
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.exe
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Debug\OdbcDemo.pdb

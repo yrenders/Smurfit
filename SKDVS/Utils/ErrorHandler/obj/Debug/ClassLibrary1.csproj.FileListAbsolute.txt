@@ -1,0 +1,7 @@
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\ClassLibrary1.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\ClassLibrary1.pdb
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\bin\ClassLibrary1.xml
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Debug\ClassLibrary1.ExceptionDialog.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Debug\ClassLibrary1.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ExceptionHandling_demo\ExceptionHandling_demo\ClassLibrary1.ConvertedToC#\obj\Debug\ClassLibrary1.pdb

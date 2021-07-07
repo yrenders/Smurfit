@@ -1,0 +1,12 @@
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\ConsoleApplication1.exe.config
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\ConsoleApplication1.exe
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\ConsoleApplication1.pdb
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\ConsoleApplication1.xml
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\WindowsApplication.dll
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\WindowsApplication.pdb
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\bin\WindowsApplication.dll.config
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\obj\Debug\ConsoleApplication1.exe
+C:\Users\rendeyv.GROUP\source\repos\SKDVS\Utils\ErrorHandler\ErrorHandlerConsole\obj\Debug\ConsoleApplication1.pdb

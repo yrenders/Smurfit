@@ -1,0 +1,12 @@
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\bin\Release\OdbcDemo.exe.config
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\bin\Release\OdbcDemo.exe
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\bin\Release\OdbcDemo.pdb
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\bin\Release\ODBCMngr.dll
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.Form1.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.Properties.Resources.resources
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.csproj.GenerateResource.Cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.exe
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.pdb
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.csproj.AssemblyReference.cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.csproj.CoreCompileInputs.cache
+C:\Users\rendeyv.GROUP\Documents\Visual Studio 2012\Projects\ODBCMngr_src\OdbcDemo\obj\Release\OdbcDemo.csproj.CopyComplete

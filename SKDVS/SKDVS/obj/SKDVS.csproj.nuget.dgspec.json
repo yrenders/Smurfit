@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj",
+        "projectName": "SKDVS",
+        "projectPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\SKDVS.csproj",
+        "packagesPath": "C:\\Users\\rendeyv.GROUP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\SKDVS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rendeyv.GROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj": {
+                "projectPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj",
+        "projectName": "SKDVS.Utils.ODBCMngr",
+        "projectPath": "C:\\Users\\rendeyv.GROUP\\source\\repos\\SKDVS\\Utils\\ODBCMngr\\SKDVS.Utils.ODBCMngr.csproj"
+      },
+      "frameworks": {
+        "net20": {}
+      }
+    }
+  }
+}

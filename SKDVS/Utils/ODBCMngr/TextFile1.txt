@@ -1,0 +1,2 @@
+﻿Buil events post
+Copy $(TargetPath)  C:\windows\system32\
